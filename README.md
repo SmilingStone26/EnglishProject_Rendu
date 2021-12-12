@@ -11,3 +11,6 @@ Glisser-déposer un fichier remplace le contenue de la zone de test et recalcule
 Pour éviter les fausses manipulations vous pouvez verrouiller le contenue des zones de texte en cochant la case au-dessus de la zone de texte, une confirmation sera demandée pour changer le contenu du texte par glisser-déposer.
 
 Vous pouvez changer le contenue des zones de texte en écrivant dedans et sauvegarder vos modifications avec le bouton sauvegarder au-dessus du texte.
+
+## Auteur
+Franck GUILLERME Mikrail SENKAYA
